@@ -44,6 +44,6 @@ Descripción breve del proyecto. Explica qué tecnologías utilizaste y qué pro
 </p>
 
 <p align="center"> 
-  <img src="[https://giphy.com/embed/VTtANKl0beDFQRLDTh](https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem)" width="200">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJvOXV4bnJqZnphampvemR0M2U5OHJneG00c3oyNGUwcnRjdGN2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.webp" width="200">
 </p>
 
