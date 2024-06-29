@@ -21,9 +21,10 @@
 
 ## 🌟 Proyectos Destacados
 ### [Proyecto 1: Auto RC Bluetooth Arduino](https://github.com/AlvaroMCV/Auto-RC-Arduino)
-![Project GIF](<iframe src="https://giphy.com/embed/Ssr2HaSSqw8ggmLHUO" width="480" height="348" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/robotistan-project-electronic-arduino-Ssr2HaSSqw8ggmLHUO">via GIPHY</a></p>)
+![Project GIF](https://giphy.com/embed/Ssr2HaSSqw8ggmLHUO)
 
-Descripción breve del proyecto. Explica qué tecnologías utilizaste y qué problemas resolviste.
+Se usa placa arduino Uno, componentes electrónicos tales como modulo Bluetooth HC-05 Servos, Motores, Buzzer, y luces. 
+[Libreria Dabble](https://github.com/STEMpedia/Dabble) y su respectiva aplicación móvil para controlar Auto desde el teléfono.
 
 ### [Proyecto 2: Nombre del Proyecto](#)
 ![Project GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
@@ -43,6 +44,6 @@ Descripción breve del proyecto. Explica qué tecnologías utilizaste y qué pro
 </p>
 
 <p align="center">
-  <iframe src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">via GIPHY</a></p>
+  (https://giphy.com/embed/VTtANKl0beDFQRLDTh)
 </p>
 
