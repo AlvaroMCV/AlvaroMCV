@@ -26,9 +26,10 @@
 Se usa placa arduino Uno, componentes electrónicos tales como modulo Bluetooth HC-05 Servos, Motores, Buzzer, y luces. 
 [Libreria Dabble](https://github.com/STEMpedia/Dabble) y su respectiva aplicación móvil para controlar Auto desde el teléfono.
 
-### [Proyecto 2: Nombre del Proyecto](#)
+### [Proyecto 2: Portafolio Django](https://github.com/AlvaroMCV/Portafolio.git)
 ![Project GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-Descripción breve del proyecto. Explica qué tecnologías utilizaste y qué problemas resolviste.
+
+Este proyecto Django es una práctica que integra múltiples aplicaciones para demostrar habilidades en desarrollo web full stack. Incluye una app de autenticación para gestionar el registro y la seguridad de los usuarios, una app de notas para la gestión personal de información, y una app de blog para la creación y administración de contenido con capacidad de comentarios. Utiliza tecnologías como Python y Django para el backend, y HTML, CSS, y JavaScript para el frontend, resolviendo problemas de autenticación de usuarios, gestión de datos y contenido interactivo.
 
 ## 📫 Contacto
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/alvaro-castillo-villalobos-6323b42b5/)
