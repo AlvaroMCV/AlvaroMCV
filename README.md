@@ -43,7 +43,7 @@ Descripción breve del proyecto. Explica qué tecnologías utilizaste y qué pro
   ¡Gracias por visitar mi página de GitHub! 😊
 </p>
 
-<p align="center">
-  <img src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="200">
+<p align="center"> 
+  <img src="[https://giphy.com/embed/VTtANKl0beDFQRLDTh](https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem)" width="200">
 </p>
 
