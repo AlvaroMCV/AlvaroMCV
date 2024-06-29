@@ -17,7 +17,7 @@
   - ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 
 ### 🎓 Educación:
-- **Técnico en Mecatrónica:** Conocimiento profundo en sistemas electrónicos y programación de microcontroladores.
+- **Técnico en Electricidad y Electrónica:** Conocimiento profundo en sistemas electrónicos y programación de microcontroladores.
 
 ## 🌟 Proyectos Destacados
 ### [Proyecto 1: Nombre del Proyecto](#)
@@ -29,8 +29,8 @@ Descripción breve del proyecto. Explica qué tecnologías utilizaste y qué pro
 Descripción breve del proyecto. Explica qué tecnologías utilizaste y qué problemas resolviste.
 
 ## 📫 Contacto
-- **LinkedIn:** [Tu Perfil de LinkedIn](#)
-- **Correo Electrónico:** tuemail@example.com
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/alvaro-castillo-villalobos-6323b42b5/)
+- **Correo Electrónico:** alvaromatias@outlook.com
 
 ## 🤝 ¿Interesado en Colaborar?
 ¡Estoy abierto a nuevas oportunidades y colaboraciones! Si tienes algún proyecto interesante o simplemente quieres charlar sobre tecnología, no dudes en contactarme.
@@ -42,6 +42,6 @@ Descripción breve del proyecto. Explica qué tecnologías utilizaste y qué pro
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif" width="200">
+  <iframe src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">via GIPHY</a></p>
 </p>
 
