@@ -1,34 +1,47 @@
 # Bienvenido a mi GitHub 👋
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200">
+</p>
+
 ## Sobre mí
 ¡Hola! Soy un desarrollador fullstack junior apasionado por la tecnología y la innovación. Tengo experiencia en el desarrollo de aplicaciones web y móviles, y un sólido conocimiento en electrónica y programación de microcontroladores.
 
-### Mis habilidades:
+### 🚀 Mis habilidades:
 - **Desarrollo Web:**
-  - **Backend:** Python (Django)
-  - **Frontend:** HTML, CSS, JavaScript
+  - **Backend:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
+  - **Frontend:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 - **Desarrollo de Aplicaciones Móviles:**
-  - Android (Java, Kotlin)
+  - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
 - **Programación de Microcontroladores:**
-  - C, C++
+  - ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 
-### Educación:
+### 🎓 Educación:
 - **Técnico en Mecatrónica:** Conocimiento profundo en sistemas electrónicos y programación de microcontroladores.
 
-## Proyectos Destacados
+## 🌟 Proyectos Destacados
 ### [Proyecto 1: Nombre del Proyecto](#)
+![Project GIF](https://media.giphy.com/media/3o7aD6dMf8ItkR4Vzi/giphy.gif)
 Descripción breve del proyecto. Explica qué tecnologías utilizaste y qué problemas resolviste.
 
 ### [Proyecto 2: Nombre del Proyecto](#)
+![Project GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 Descripción breve del proyecto. Explica qué tecnologías utilizaste y qué problemas resolviste.
 
-## Contacto
+## 📫 Contacto
 - **LinkedIn:** [Tu Perfil de LinkedIn](#)
 - **Correo Electrónico:** tuemail@example.com
 
-## ¿Interesado en Colaborar?
+## 🤝 ¿Interesado en Colaborar?
 ¡Estoy abierto a nuevas oportunidades y colaboraciones! Si tienes algún proyecto interesante o simplemente quieres charlar sobre tecnología, no dudes en contactarme.
 
 ---
 
-¡Gracias por visitar mi página de GitHub! 😊
+<p align="center">
+  ¡Gracias por visitar mi página de GitHub! 😊
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif" width="200">
+</p>
+
