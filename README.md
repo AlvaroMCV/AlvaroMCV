@@ -20,8 +20,9 @@
 - **Técnico en Electricidad y Electrónica:** Conocimiento profundo en sistemas electrónicos y programación de microcontroladores.
 
 ## 🌟 Proyectos Destacados
-### [Proyecto 1: Nombre del Proyecto](#)
-![Project GIF](https://media.giphy.com/media/3o7aD6dMf8ItkR4Vzi/giphy.gif)
+### [Proyecto 1: Auto RC Bluetooth Arduino](https://github.com/AlvaroMCV/Auto-RC-Arduino)
+![Project GIF](<iframe src="https://giphy.com/embed/Ssr2HaSSqw8ggmLHUO" width="480" height="348" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/robotistan-project-electronic-arduino-Ssr2HaSSqw8ggmLHUO">via GIPHY</a></p>)
+
 Descripción breve del proyecto. Explica qué tecnologías utilizaste y qué problemas resolviste.
 
 ### [Proyecto 2: Nombre del Proyecto](#)
